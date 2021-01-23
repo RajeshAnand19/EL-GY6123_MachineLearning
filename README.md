@@ -1,6 +1,6 @@
-# EL-GY6123 MachineLearning
+# MachineLearning
 
-This repository is based on the coursework Introduction to Machine Learning in python by Sundeep Rangan I took during Fall 20 semester.
+This repository is based on the coursework Introduction to Machine Learning in python by Sundeep Rangan (EL-GY6123) I took during Fall 20 semester.
 
 Tools : Scikit Learn, Keras, TensorFlow
 The following uploads are the homeworks completed using Google Colaboratory and Jupyter notebook
